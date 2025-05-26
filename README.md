@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Reinforcement Learning, and Data Visualizations
 - 🌱 I’m currently learning advanced ML techniques, deep learning, and interactive visualization tools like D3.js and Bokeh
 - 💞️ I’m looking to collaborate on AI-driven projects, ML research, and open-source data science tools
-- 📫 How to reach me judy.kimani1@outlook.com | https://www.linkedin.com/in/judy-kimani-2a993513b/
+- 📫 How to reach me judy.kimani1@outlook.com |www.linkedin.com/in/judykimani1
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  I love finding patterns in data that others might overlook! 
 
